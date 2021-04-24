@@ -1,49 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel = "stylesheet" href="/vanilla-css-master/vanilla.css">
-<link rel = "stylesheet" href="/myCSS.css">
-<link rel = "stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<title>Blog</title>
-</head>
-<body>
-<header>
-  <h1 align = "center"> andrew qi tang </h1>
-</header>
-<div class = "navigationbar" align = "center">
-  <a href = "/Home.html">About</a>
-  <a href = "/Blog.html" class = "active">Blog</a>
-  <a href = "/AQT%20Resume.pdf">Resume</a>
-</div>
-<div>
+---
+layout: default
+---
+
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+{% for post in site.posts %}
+  <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </article>
+{% endfor %}
 </div>
-</div>
-<hr>
-<div class = "footer">
-  <div class = "icons">
-    <a href = "mailto:tangqiandrew@gmail.com" class = "fa fa-envelope"></a>
-    <a href = "https://www.linkedin.com/in/andrew-qi-tang/" class = "fa fa-linkedin"></a>
-    <a href = "https://github.com/AndrewQT" class = "fa fa-github"></a>
-</div>
-<!--
-<h1 style = "background-color:powderblue;">This is a Heading</h1>
-<p style = "font-family:verdana; font-size:300%;">This is a <em> paragraph. </em> </p>
-<a href = "/Another%20Test.html">Nothing happens.</a>
-<p> <q>quotations</q> <p>
--->
-
-</body>
-</html>
