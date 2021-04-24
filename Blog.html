@@ -16,7 +16,20 @@
   <a href = "/AQT%20Resume.pdf">Resume</a>
 </div>
 <div>
-<a href = "/Blogs/Favorite%20Problems%20From%20CF%202020"> Favorite Problems From CF 2020 </a>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 </div>
 <hr>
 <div class = "footer">
