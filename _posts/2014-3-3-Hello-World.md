@@ -13,9 +13,9 @@ As for submissions, I have made 2220 submissions and among them, I solved 655 pr
 The primary reason that I wanted to write this blog is to share some of my favorite problems that I solved on Codeforces in 2020.
 When thinking about what were my favorite problems of the year I accounted for the impact it had on me and the elegance of the solution.
 There were simply too many problems that I enjoyed solving this year, but I managed to compile a list of 37 problems and cut it down to the 10 best problems.
-First I'll list in the order I solved them in for the honorable mention problems that made it to the 37 problem cut and then I will show and explain the best 9.
+First I'll list in the order I solved them in for the honorable mention problems that made it to the 37 problem cut and then I will show and explain the best 11.
 
-##Honorable Mention
+## Honorable Mention
 
 - [NN County](https://codeforces.com/contest/983/problem/E)
 - [The Untended Antiquity](https://codeforces.com/contest/869/problem/E)
@@ -44,9 +44,40 @@ First I'll list in the order I solved them in for the honorable mention problems
 - [Sum](https://codeforces.com/contest/1442/problem/D)
 - [Errich Tac Toe](https://codeforces.com/contest/1450/problem/C2)
 
-##Top 11
+## Top 11
 
+Subset With Zero Sum
+- [Problem Link](https://codeforces.com/contest/1270/problem/G) Difficulty: 2700
 
+Awesomest Substring
+- [Problem Link](https://codeforces.com/contest/1270/problem/F) Difficulty: 2600
+
+Varying Kbits
+- [Problem Link](https://codeforces.com/contest/772/problem/D) Difficulty: 2700
+
+Secure Password
+- [Problem Link](https://codeforces.com/contest/1365/problem/G) Difficulty: 2800
+
+Crossword Expert
+- [Problem Link](https://codeforces.com/contest/1194/problem/F) Difficulty: 2400
+
+Souvenirs
+- [Problem Link](https://codeforces.com/contest/765/problem/F) Difficulty: 3100
+
+Almost All
+- [Problem Link](https://codeforces.com/contest/1205/problem/D) Difficulty: 2700
+
+Change Free
+- [Problem Link](https://codeforces.com/contest/767/problem/E) Difficulty: 2400
+
+Double Knapsack
+- [Problem Link](https://codeforces.com/contest/618/problem/F) Difficulty: 3000
+
+Reality Show
+- [Problem Link](https://codeforces.com/contest/1322/problem/D) Difficulty: 2800
+
+Roads And Ramen
+- [Problem Link](https://codeforces.com/contest/1434/problem/D) Difficulty: 2800
 
 [//]: # 'Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).''
 
