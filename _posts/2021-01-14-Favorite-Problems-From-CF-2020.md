@@ -50,20 +50,14 @@ First I'll list in the order I solved them in for the honorable mention problems
 1. Subset With Zero Sum
 
 [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
-
   <details>
     <summary> Editorial </summary>
     test
   </details>
-
 2. Awesomest Substring
-
   [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
-
 3. Varying Kbits
-
   [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
-
 4. Secure Password
 
 [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
