@@ -15,7 +15,7 @@ When thinking about what were my favorite problems of the year I accounted for t
 There were simply too many problems that I enjoyed solving this year, but I managed to compile a list of 37 problems and cut it down to the 10 best problems.
 First I'll list in the order I solved them in for the honorable mention problems that made it to the 37 problem cut and then I will show and explain the best 11.
 
-### <div align = "center"> Honorable Mention </div>
+<div align = "center"> ### Honorable Mention </div>
 
 - [NN County](https://codeforces.com/contest/983/problem/E)
 - [The Untended Antiquity](https://codeforces.com/contest/869/problem/E)
@@ -44,9 +44,10 @@ First I'll list in the order I solved them in for the honorable mention problems
 - [Sum](https://codeforces.com/contest/1442/problem/D)
 - [Errich Tac Toe](https://codeforces.com/contest/1450/problem/C2)
 
-### <div align = "center"> Top 11 </div>
+<div align = "center"> ### Top 11 </div>
 
 1. Subset With Zero Sum
+
 [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
 
 <details>
@@ -55,33 +56,43 @@ First I'll list in the order I solved them in for the honorable mention problems
 </details>
 
 2. Awesomest Substring
+
 [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
 3. Varying Kbits
+
 [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
 4. Secure Password
+
 [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
 5. Crossword Expert
+
 [Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
 
 6. Souvenirs
+
 [Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
 
 7. Almost All
+
 [Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
 
 8. Change Free
+
 [Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
 
 9. Double Knapsack
+
 [Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
 
 10. Reality Show
+
 [Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
 
 11. Roads And Ramen
+
 [Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
 
 [//]: # 'Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).'
