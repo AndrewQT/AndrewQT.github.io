@@ -47,7 +47,7 @@ First I'll list in the order I solved them in for the honorable mention problems
 <h3 align = "center"> Top 11 </h3>
 
 
-1. Subset With Zero Sum
+1. <u> Subset With Zero Sum
 
     [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
     <details>
@@ -55,43 +55,43 @@ First I'll list in the order I solved them in for the honorable mention problems
       test
     </details>
 
-2. Awesomest Substring
+2. <u> Awesomest Substring </u>
 
     [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
-3. Varying Kbits
+3. <u> Varying Kbits </u>
 
     [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
-4. Secure Password
+4. <u> Secure Password </u>
 
     [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
-5. Crossword Expert
+5. <u> Crossword Expert </u>
 
     [Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
 
-6. Souvenirs
+6. <u> Souvenirs </u>
 
     [Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
 
-7. Almost All
+7. <u> Almost All </u>
 
     [Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
 
-8. Change Free
+8. <u> Change Free </u>
 
     [Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
 
-9. Double Knapsack
+9. <u> Double Knapsack </u>
 
     [Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
 
-10. Reality Show
+10. <u> Reality Show </u>
 
     [Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
 
-11. Roads And Ramen
+11. <u> Roads And Ramen </u>
 
     [Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
 

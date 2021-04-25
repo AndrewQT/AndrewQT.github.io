@@ -2,6 +2,34 @@
 layout: default
 ---
 
+<script type="text/javascript">
+    window.MathJax = {
+        messageStyle: 'none',
+        tex2jax: {
+            inlineMath: [
+                ['~', '~'],
+                ['$', '$']
+            ],
+            displayMath: [
+                ['~~', '~~'],
+                ['$$', '$$'],
+            ]
+        },
+        showMathMenu: false
+    };
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript">
+    window.reload_mathjax = function () {
+        MathJax.Hub.queue.Push(function () {
+            $('.tex-image').hide();
+            $('.tex-text').show();
+        });
+    };
+    window.reload_mathjax();
+</script>
+
 <article class="post">
   <h1>{{ page.title }}</h1>
 
