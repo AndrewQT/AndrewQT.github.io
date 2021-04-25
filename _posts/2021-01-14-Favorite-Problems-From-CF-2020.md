@@ -47,51 +47,51 @@ First I'll list in the order I solved them in for the honorable mention problems
 <h3 align = "center"> Top 11 </h3>
 
 
-1. Subset With Zero Sum
+Subset With Zero Sum
 
   [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
   <details>
     <summary> Editorial </summary>
     test
   </details>
-  
-2. Awesomest Substring
+
+Awesomest Substring
 
   [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
-3. Varying Kbits
+Varying Kbits
 
   [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
-4. Secure Password
+Secure Password
 
 [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
-5. Crossword Expert
+Crossword Expert
 
 [Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
 
-6. Souvenirs
+Souvenirs
 
 [Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
 
-7. Almost All
+Almost All
 
 [Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
 
-8. Change Free
+Change Free
 
 [Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
 
-9. Double Knapsack
+Double Knapsack
 
 [Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
 
-10. Reality Show
+1Reality Show
 
 [Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
 
-11. Roads And Ramen
+1Roads And Ramen
 
 [Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
 
