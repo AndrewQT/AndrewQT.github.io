@@ -15,7 +15,7 @@ When thinking about what were my favorite problems of the year I accounted for t
 There were simply too many problems that I enjoyed solving this year, but I managed to compile a list of 37 problems and cut it down to the 10 best problems.
 First I'll list in the order I solved them in for the honorable mention problems that made it to the 37 problem cut and then I will show and explain the best 11.
 
-<h3> Honorable Mention </h3>
+<h3 align = "center"> Honorable Mention </h3>
 
 - [NN County](https://codeforces.com/contest/983/problem/E)
 - [The Untended Antiquity](https://codeforces.com/contest/869/problem/E)
@@ -44,7 +44,7 @@ First I'll list in the order I solved them in for the honorable mention problems
 - [Sum](https://codeforces.com/contest/1442/problem/D)
 - [Errich Tac Toe](https://codeforces.com/contest/1450/problem/C2)
 
-<h3> Top 11 </h3>
+<h3 align = "center"> Top 11 </h3>
 
 1. Subset With Zero Sum
 
