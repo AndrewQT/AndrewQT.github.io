@@ -52,7 +52,7 @@ First I'll list in the order I solved them in for the honorable mention problems
     [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
     <details>
       <summary> Editorial </summary>
-      test
+      test $N$ space ~N~
     </details>
 
 2. <u> Awesomest Substring </u>
