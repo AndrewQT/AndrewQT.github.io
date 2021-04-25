@@ -47,53 +47,53 @@ First I'll list in the order I solved them in for the honorable mention problems
 <h3 align = "center"> Top 11 </h3>
 
 
-Subset With Zero Sum
+1. Subset With Zero Sum
 
-  [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
-  <details>
-    <summary> Editorial </summary>
-    test
-  </details>
+    [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
+    <details>
+      <summary> Editorial </summary>
+      test
+    </details>
 
-Awesomest Substring
+2. Awesomest Substring
 
-  [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
+    [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
-Varying Kbits
+3. Varying Kbits
 
-  [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
+    [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
-Secure Password
+4. Secure Password
 
-[Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
+    [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
-Crossword Expert
+5. Crossword Expert
 
-[Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
+    [Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
 
-Souvenirs
+6. Souvenirs
 
-[Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
+    [Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
 
-Almost All
+7. Almost All
 
-[Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
+    [Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
 
-Change Free
+8. Change Free
 
-[Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
+    [Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
 
-Double Knapsack
+9. Double Knapsack
 
-[Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
+    [Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
 
-1Reality Show
+10. Reality Show
 
-[Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
+    [Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
 
-1Roads And Ramen
+11. Roads And Ramen
 
-[Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
+    [Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
 
 
 
