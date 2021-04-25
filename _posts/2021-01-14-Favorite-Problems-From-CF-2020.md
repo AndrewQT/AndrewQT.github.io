@@ -51,20 +51,20 @@ First I'll list in the order I solved them in for the honorable mention problems
 
 [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
 
-<details>
-  <summary> Editorial </summary>
-  test
-</details>
+  <details>
+    <summary> Editorial </summary>
+    test
+  </details>
 
-1. Awesomest Substring
+2. Awesomest Substring
 
-[Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
+  [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
-1. Varying Kbits
+3. Varying Kbits
 
-[Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
+  [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
-1. Secure Password
+4. Secure Password
 
 [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
