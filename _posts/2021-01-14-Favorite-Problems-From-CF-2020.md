@@ -46,8 +46,8 @@ First I'll list in the order I solved them in for the honorable mention problems
 
 <h3 align = "center"> Top 11 </h3>
 
-<ol>
-<li> Subset With Zero Sum </li>
+
+1. Subset With Zero Sum
 
 [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
 
@@ -56,45 +56,47 @@ First I'll list in the order I solved them in for the honorable mention problems
   test
 </details>
 
-<li> Awesomest Substring </li>
+2. Awesomest Substring
 
 [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
 
-<li> Varying Kbits </li>
+3. Varying Kbits
 
 [Problem Link](https://codeforces.com/contest/772/problem/D), Difficulty: 2700
 
-<li> Secure Password </li>
+4. Secure Password
 
 [Problem Link](https://codeforces.com/contest/1365/problem/G), Difficulty: 2800
 
-<li> Crossword Expert </li>
+5. Crossword Expert
 
 [Problem Link](https://codeforces.com/contest/1194/problem/F), Difficulty: 2400
 
-<li> Souvenirs </li>
+6. Souvenirs
 
 [Problem Link](https://codeforces.com/contest/765/problem/F), Difficulty: 3100
 
-<li> Almost All </li>
+7. Almost All
 
 [Problem Link](https://codeforces.com/contest/1205/problem/D), Difficulty: 2700
 
-<li> Change Free </li>
+8. Change Free
 
 [Problem Link](https://codeforces.com/contest/767/problem/E), Difficulty: 2400
 
-<li> Double Knapsack </li>
+9. Double Knapsack 
 
 [Problem Link](https://codeforces.com/contest/618/problem/F), Difficulty: 3000
 
-<li> Reality Show </li>
+10. Reality Show
 
 [Problem Link](https://codeforces.com/contest/1322/problem/D), Difficulty: 2800
 
-<li> Roads And Ramen </li>
+11. Roads And Ramen
 
 [Problem Link](https://codeforces.com/contest/1434/problem/D), Difficulty: 2800
+
+
 
 [//]: # 'Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).'
 
