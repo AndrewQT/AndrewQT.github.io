@@ -51,14 +51,16 @@ First I'll list in the order I solved them in for the honorable mention problems
     [Problem Link](https://codeforces.com/contest/1270/problem/G), Difficulty: 2700
     <details>
         <summary> Solution </summary>
-        $$i-n \le a_i \le i-1 \to -n \le a_i-i \le -1 \to n \ge i-a_i \ge 1$$
+        $$i-n \le a_i \le i-1$$
+        $$-n \le a_i-i \le -1$$
+        $$n \ge i-a_i \ge 1$$
         This means that $i-a_i = j$ where $1 \le j \le n$ is another index.
         Now consider the graph where edges are drawn between $i$ and $i - a_i$. Note that this is a functional graph, meaning that there exists an oriented cycle.
         Now consider all the nodes in an oriented cycle $\{i_1, i_2, i_3, \ldots, i_k, i_1\}$.
         Summing each distinct node in the sequence, we get
         $$\sum_{i = 1}^k i_k = \sum_{i = 1}^k i_k - a_{i_k}$$
         Subtracting $i_k$ on both side, yields
-        $$0 = \sum_{i = 1}^k -a_{i_k} \to 0 = a_1 + \ldots + a_k$$
+        $$0 = \sum_{i = 1}^k -a_{i_k} \implies 0 = a_1 + \ldots + a_k$$
         Thus, we reduced the problem to finding an oriented cycle in a functional graph, which can be solved using DFS or Floyd's Cycle Detection Algorithm.
     </details>
 
