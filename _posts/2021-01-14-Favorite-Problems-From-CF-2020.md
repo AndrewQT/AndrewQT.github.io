@@ -69,6 +69,7 @@ First I'll list in the order I solved them in for the honorable mention problems
     [Problem Link](https://codeforces.com/contest/1270/problem/F), Difficulty: 2600
     <details>
         <summary> Solution </summary>
+        <p>
         Think about the string as an array of integers instead ('0' turns into value 0 and similar for '1').
         Compute the prefix sum and call it $pre$ where $pre[i]$ represents the sum of the first $i$ elements.
         Now we can state the condition as count the number of subarrays $(l, r)$ such that
@@ -76,23 +77,28 @@ First I'll list in the order I solved them in for the honorable mention problems
         In other words, we can count the number of unordered pairs $(l, r)$ such that there exists some $k \in \mathbb{Z}$ such that
         $$k * (pre[r] - pre[l - 1]) = r - l + 1$$
         Since $r - l + 1$ is bounded by $N$, then either $k$ or $pre[r] - pre[l - 1]$ is less than or equal to $\sqrt{N}$.
-
+        </p>
+        <p>
         If $k$ is less than or equal to $\sqrt{N}$, then rearranging can get that
         $$k * pre[r] - r = k * pre[l - 1] - k * (l - 1)$$
         So, for each $k$ we can maintain a frequency array of $k * pre[i] - i$ for every $i$ and then we can use $(fre[v] * fre[v - 1]) / 2$ for every non-zero $v$;
-
+        </p>
+        <p>
         If $pre[r] - pre[l - 1] \le \sqrt{N}$, then for every $r$ group each $l$ into group of $1 \le g \le \sqrt{N}$ such that $pre[r] - pre[l-1] = g$.
         Notice that each group is contiguous and let it be $[a_g, b_g]$.
         Fixing $g$ allows us to calculate how many $g | r - l + 1$ where $l \in [a_g, b_g]$.
         This is the same to count the number of $l$ such that $r$ is congruent to $l-1$ in modulo $g$.
-
+        </p>
+        <p>
         Note that when implementing be careful to not overcount subarrays where it satisfies both conditions.
         One method to avoid that is to subtract those subarrays by using PIE, but I find that to be slow in practice.
         Another method is to count those that satisfy the first condition and then count subarrays who satisfy the second but not the first condition or vice versa.
-
-        Since, each pass is $\mathcal(O)(N\sqrt{N}), then it should pass within the time limits.
+        </p>
+        <p>
+        Since, each pass is $\mathcal(O)(N\sqrt{N})$, then it should pass within the time limits.
         However, I find that the time limit is tight.
         One optimization is to use a 100 million sized int array for the frequency array.
+        </p>
     </details>
 
 3. <u> Varying Kbits </u>
